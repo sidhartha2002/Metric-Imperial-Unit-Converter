@@ -1,2 +1,8 @@
 # Metric-Imperial-Unit-Converter
-It converts the user input into its  accurate Imperial unit.
+
+- Converts the user input into its  accurate Imperial units.
+- Simple, Responsive, Accurate 
+- Lang: HTML , CSS, JS
+
+  #### made with 💖
+
